@@ -1,3 +1,5 @@
+//objects
+
 const person = {
     name: "Joe",
     age: 28,
@@ -56,6 +58,9 @@ console.log(coffeeShop.drinksOrdered());
 console.log(coffeeShop.foodOrdered());
 
 console.log("Next activity");
+
+//OOP
+
 
 class Car {
     constructor(reg, rate) {
